@@ -1,1 +1,1 @@
-# True or false quiz game
+# True or false quiz game.
